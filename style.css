@@ -1,0 +1,34 @@
+.size_img { 
+    width: 100%;
+padding: 0 30% 0 30%;
+}
+
+.liste{
+    color: brown;
+    text-align: center;
+}
+#produit{
+    display: flex;
+ align-items: center;
+justify-content: space-around;
+align-content: center;
+}
+.produit_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.floot{
+    background-color:aquamarine;
+    text-align: center;
+    text-decoration :double;
+}
+.fa-heart{
+    color : rgb(222, 218, 218)
+
+}
+
+.like_color
+{
+    color : red;
+}
